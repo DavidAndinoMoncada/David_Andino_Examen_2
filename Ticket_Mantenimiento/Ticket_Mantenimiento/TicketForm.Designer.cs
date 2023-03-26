@@ -277,12 +277,12 @@
             this.DetalledataGridView.Name = "DetalledataGridView";
             this.DetalledataGridView.RowHeadersWidth = 51;
             this.DetalledataGridView.RowTemplate.Height = 24;
-            this.DetalledataGridView.Size = new System.Drawing.Size(1054, 244);
+            this.DetalledataGridView.Size = new System.Drawing.Size(1054, 198);
             this.DetalledataGridView.TabIndex = 4;
             // 
             // SubTotaltextBox
             // 
-            this.SubTotaltextBox.Location = new System.Drawing.Point(830, 745);
+            this.SubTotaltextBox.Location = new System.Drawing.Point(830, 701);
             this.SubTotaltextBox.Name = "SubTotaltextBox";
             this.SubTotaltextBox.ReadOnly = true;
             this.SubTotaltextBox.Size = new System.Drawing.Size(186, 27);
@@ -292,7 +292,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(737, 747);
+            this.label9.Location = new System.Drawing.Point(737, 703);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(87, 22);
             this.label9.TabIndex = 14;
@@ -300,7 +300,7 @@
             // 
             // ISVtextBox
             // 
-            this.ISVtextBox.Location = new System.Drawing.Point(830, 782);
+            this.ISVtextBox.Location = new System.Drawing.Point(830, 738);
             this.ISVtextBox.Name = "ISVtextBox";
             this.ISVtextBox.ReadOnly = true;
             this.ISVtextBox.Size = new System.Drawing.Size(186, 27);
@@ -310,7 +310,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(779, 784);
+            this.label10.Location = new System.Drawing.Point(779, 740);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(45, 22);
             this.label10.TabIndex = 16;
@@ -318,7 +318,7 @@
             // 
             // DescuentotextBox
             // 
-            this.DescuentotextBox.Location = new System.Drawing.Point(830, 820);
+            this.DescuentotextBox.Location = new System.Drawing.Point(830, 776);
             this.DescuentotextBox.Name = "DescuentotextBox";
             this.DescuentotextBox.ReadOnly = true;
             this.DescuentotextBox.Size = new System.Drawing.Size(186, 27);
@@ -328,7 +328,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(726, 822);
+            this.label11.Location = new System.Drawing.Point(726, 778);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(98, 22);
             this.label11.TabIndex = 18;
@@ -336,7 +336,7 @@
             // 
             // TotaltextBox
             // 
-            this.TotaltextBox.Location = new System.Drawing.Point(832, 858);
+            this.TotaltextBox.Location = new System.Drawing.Point(832, 814);
             this.TotaltextBox.Name = "TotaltextBox";
             this.TotaltextBox.ReadOnly = true;
             this.TotaltextBox.Size = new System.Drawing.Size(186, 27);
@@ -346,7 +346,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(767, 860);
+            this.label12.Location = new System.Drawing.Point(767, 816);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(57, 22);
             this.label12.TabIndex = 20;
@@ -355,7 +355,7 @@
             // Guardarbutton
             // 
             this.Guardarbutton.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Guardarbutton.Location = new System.Drawing.Point(4, 834);
+            this.Guardarbutton.Location = new System.Drawing.Point(4, 790);
             this.Guardarbutton.Name = "Guardarbutton";
             this.Guardarbutton.Size = new System.Drawing.Size(116, 51);
             this.Guardarbutton.TabIndex = 22;
@@ -366,7 +366,7 @@
             // Cancelarbutton
             // 
             this.Cancelarbutton.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cancelarbutton.Location = new System.Drawing.Point(138, 834);
+            this.Cancelarbutton.Location = new System.Drawing.Point(138, 790);
             this.Cancelarbutton.Name = "Cancelarbutton";
             this.Cancelarbutton.Size = new System.Drawing.Size(116, 51);
             this.Cancelarbutton.TabIndex = 23;
@@ -379,7 +379,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(1055, 898);
+            this.ClientSize = new System.Drawing.Size(1055, 853);
             this.Controls.Add(this.Cancelarbutton);
             this.Controls.Add(this.Guardarbutton);
             this.Controls.Add(this.TotaltextBox);
